@@ -9,4 +9,4 @@ speedmaster;
 datejust;
 accutron;
 
-3. leave running and swipe up the good dealz
+3. leave running and wait for deals
