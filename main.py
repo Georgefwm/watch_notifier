@@ -53,7 +53,7 @@ def notify_me(post, watch):
 
 def create_reddit_instance():
     '''
-    Connects to the reddit api, asks for password but still not secure as hard coded(was playing around with encrypting).
+    Connects to the reddit api, asks for password but still not secure as hard coded(was playing around with encoding).
     Logs to logs.txt as well.
 
     @return: The reddit api wrapper object
