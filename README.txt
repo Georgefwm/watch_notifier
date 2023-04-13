@@ -1,4 +1,4 @@
-Simple notification server used to beat the average buyer. 
+# Simple notification server used to beat the average buyer. 
 
 Could be easily modified to give notifications based on keywords, etc from any reddit page.
 
